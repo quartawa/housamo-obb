@@ -31,7 +31,7 @@
 将 OBB 原样复制到下面的完整路径，保留文件名，**不要解压**：
 
 ```text
-/sdcard/Android/obb/jp.co.lifewonders.housamo/main.1378.jp.co.lifewonders.housamo.obb
+/sdcard/Android/obb/jp.co.lifewonders.housamo/main.1379.jp.co.lifewonders.housamo.obb
 ```
 
 不要放到 `Android/data`、下载目录或 HET 的私有目录。
